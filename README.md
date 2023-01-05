@@ -1,6 +1,5 @@
-# Assignment 2: Imitation Learning on Underactuated Systems
+#Imitation Learning on Underactuated Systems
 
-Writeup of the assignment: https://docs.google.com/document/d/1JMCVOn-o4mIlg6t8rB5YdVHHSuaTnfiN8s_8iQtlErM/edit?usp=sharing
 
 ## Getting Started
 To run the assignment, please check the following dependencies:
