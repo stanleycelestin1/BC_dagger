@@ -1,4 +1,4 @@
-#Imitation Learning on Underactuated Systems
+# Imitation Learning on Underactuated Systems
 
 
 ## Getting Started
